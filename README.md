@@ -1,1 +1,1 @@
-<h1>https://github.com/MindBodyJourney/soulfuel.github.io</h1>
+<h1>https://soulfuel.github.io</h1>
